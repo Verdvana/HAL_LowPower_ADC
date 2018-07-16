@@ -1,0 +1,2 @@
+# HAL_LowPower_ADC
+基于STM32l053的低功耗睡眠模式下三路ADC采集，通过HAL编写
